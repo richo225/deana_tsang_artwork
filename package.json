@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/richo225/deana_tsang_artwork/issues"
   },
-  "homepage": "https://github.com/richo225/deana_tsang_artwork#readme"
+  "homepage": "https://github.com/richo225/deana_tsang_artwork#readme",
+  "dependencies": {
+    "siimple": "^1.3.7"
+  }
 }
